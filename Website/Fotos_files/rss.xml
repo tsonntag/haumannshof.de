@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Einige Eindrücke rund um den Hof</title>
+    <link>http://www.haumannshof.de/Website/Fotos.html</link>
+    <description>Der Haumannshof lädt zu jeder Jahreszeit zu einem Besuch ein. </description>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#0</link>
+      <guid isPermaLink="false">291e6dd6-ca10-451f-9109-d83a863fbdc1</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1166/img_1166.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1166/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1166/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#1</link>
+      <guid isPermaLink="false">f91b86d4-3533-4d91-b6e7-2fa81859eb46</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1128/img_1128.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1128/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1128/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#2</link>
+      <guid isPermaLink="false">5ecc98ba-4d7a-457e-9128-92b997150bad</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1140/img_1140.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1140/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1140/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#3</link>
+      <guid isPermaLink="false">a2956fb6-2fe6-4cf1-9175-9eda4a5e44c8</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1143/img_1143.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1143/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1143/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#4</link>
+      <guid isPermaLink="false">05fe8e93-f7aa-4619-ad35-7f42a32418b4</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1138/img_1138.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1138/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1138/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.haumannshof.de/Website/Fotos.html#5</link>
+      <guid isPermaLink="false">190bd4b2-7bf9-4c92-bc92-3f0c7242b5ac</guid>
+      <enclosure url="http://www.haumannshof.de/Website/Fotos_files/Media/img_1137/img_1137.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.haumannshof.de/Website/Fotos_files/Media/img_1137/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.haumannshof.de/Website/Fotos_files/Media/img_1137/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>
